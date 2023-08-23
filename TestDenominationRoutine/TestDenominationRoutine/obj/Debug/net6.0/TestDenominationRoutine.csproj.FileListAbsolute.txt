@@ -1,0 +1,15 @@
+C:\Users\viral\source\repos\TestDenominationRoutine\TestDenominationRoutine\bin\Debug\net6.0\TestDenominationRoutine.exe
+C:\Users\viral\source\repos\TestDenominationRoutine\TestDenominationRoutine\bin\Debug\net6.0\TestDenominationRoutine.deps.json
+C:\Users\viral\source\repos\TestDenominationRoutine\TestDenominationRoutine\bin\Debug\net6.0\TestDenominationRoutine.runtimeconfig.json
+C:\Users\viral\source\repos\TestDenominationRoutine\TestDenominationRoutine\bin\Debug\net6.0\TestDenominationRoutine.dll
+C:\Users\viral\source\repos\TestDenominationRoutine\TestDenominationRoutine\bin\Debug\net6.0\TestDenominationRoutine.pdb
+C:\Users\viral\source\repos\TestDenominationRoutine\TestDenominationRoutine\obj\Debug\net6.0\TestDenominationRoutine.csproj.AssemblyReference.cache
+C:\Users\viral\source\repos\TestDenominationRoutine\TestDenominationRoutine\obj\Debug\net6.0\TestDenominationRoutine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viral\source\repos\TestDenominationRoutine\TestDenominationRoutine\obj\Debug\net6.0\TestDenominationRoutine.AssemblyInfoInputs.cache
+C:\Users\viral\source\repos\TestDenominationRoutine\TestDenominationRoutine\obj\Debug\net6.0\TestDenominationRoutine.AssemblyInfo.cs
+C:\Users\viral\source\repos\TestDenominationRoutine\TestDenominationRoutine\obj\Debug\net6.0\TestDenominationRoutine.csproj.CoreCompileInputs.cache
+C:\Users\viral\source\repos\TestDenominationRoutine\TestDenominationRoutine\obj\Debug\net6.0\TestDenominationRoutine.dll
+C:\Users\viral\source\repos\TestDenominationRoutine\TestDenominationRoutine\obj\Debug\net6.0\refint\TestDenominationRoutine.dll
+C:\Users\viral\source\repos\TestDenominationRoutine\TestDenominationRoutine\obj\Debug\net6.0\TestDenominationRoutine.pdb
+C:\Users\viral\source\repos\TestDenominationRoutine\TestDenominationRoutine\obj\Debug\net6.0\TestDenominationRoutine.genruntimeconfig.cache
+C:\Users\viral\source\repos\TestDenominationRoutine\TestDenominationRoutine\obj\Debug\net6.0\ref\TestDenominationRoutine.dll
